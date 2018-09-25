@@ -1,0 +1,10 @@
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\bin\Debug\LinqMethods.exe.config
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\bin\Debug\LinqMethods.exe
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\bin\Debug\LinqMethods.pdb
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csprojAssemblyReference.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.Form1.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.Properties.Resources.resources
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csproj.GenerateResource.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csproj.CoreCompileInputs.cache
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.exe
+C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\Debug\LinqMethods.pdb
