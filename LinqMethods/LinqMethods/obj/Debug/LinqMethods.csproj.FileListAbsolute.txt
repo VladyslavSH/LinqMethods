@@ -11,9 +11,10 @@ C:\Users\MAK\Documents\Visual Studio 2017\Projects\LinqMethods\LinqMethods\obj\D
 D:\git\LinqMethods\LinqMethods\LinqMethods\bin\Debug\LinqMethods.exe.config
 D:\git\LinqMethods\LinqMethods\LinqMethods\bin\Debug\LinqMethods.exe
 D:\git\LinqMethods\LinqMethods\LinqMethods\bin\Debug\LinqMethods.pdb
-D:\git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csprojResolveAssemblyReference.cache
 D:\git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.Form1.resources
 D:\git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.Properties.Resources.resources
 D:\git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csproj.GenerateResource.Cache
 D:\git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.exe
 D:\git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.pdb
+D:\Git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csprojAssemblyReference.cache
+D:\Git\LinqMethods\LinqMethods\LinqMethods\obj\Debug\LinqMethods.csproj.CoreCompileInputs.cache

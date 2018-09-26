@@ -43,6 +43,7 @@
             // 
             // NewsText1
             // 
+            this.NewsText1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.NewsText1.Location = new System.Drawing.Point(12, 67);
             this.NewsText1.Multiline = true;
             this.NewsText1.Name = "NewsText1";
@@ -119,6 +120,7 @@
             // 
             // NewsText2
             // 
+            this.NewsText2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.NewsText2.Location = new System.Drawing.Point(781, 67);
             this.NewsText2.Multiline = true;
             this.NewsText2.Name = "NewsText2";
